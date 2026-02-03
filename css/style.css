@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+body {	margin: 0; }
+
+#first_panel {
+    float: left;
+    width: 100vw;
+    height: 1024px;
+    background-image: url(../images/first_panel_bkg.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+    nav {
+        width: 100vw;
+        height: 64px;
+        background: rgba(46, 28, 11, 0.70);
+        text-align: center;
+        padding-top: 22px;
+    }
+
+
+
+.panel_text {
+    width: 758px;
+    margin: 0 auto;
+    text-align: center;
+}
